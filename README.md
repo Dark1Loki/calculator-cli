@@ -18,7 +18,7 @@
 1. Склонируй репозиторий:
 
    ```bash
-   git clone https://github.com/username/calculator-cli.git
+   git clone https://github.com/Dark1Loki/calculator-cli.git
    cd calculator-cli
    ```
 2. Запусти калькулятор:
